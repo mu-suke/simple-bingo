@@ -1,4 +1,4 @@
-# lesson-data
+# 簡易版ビンゴアプリ
 
 ## Project setup
 ```
